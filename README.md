@@ -14,12 +14,12 @@ Whether you're here to trade, laugh, or just enjoy the absurdity, you've come to
 ## 🏛️ About the Coins
 
 ### 🐘 Jinbo Token
-- **Total Supply:** X,XXX,XXX
+- **Total Supply:** 1,000,000,000
 - **Features:** Deflationary? Redistribution? Taxes? Whatever fits the meme!
 - **Smart Contract:** 0x1BCE336c004C68CBa926F8CEE31A0B4DbE841B9C​
 
 ### 🐴 Bosu Token
-- **Total Supply:** X,XXX,XXX
+- **Total Supply:** 1,000,000,000
 - **Features:** Staking? Rug-proof? Just vibes?
 - **Smart Contract:** 0x2faBEEc7215b50928b1c0d177c76e0316b7eDB64​
 
