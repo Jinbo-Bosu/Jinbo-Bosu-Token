@@ -1,3 +1,5 @@
+![Jinbo-Bosu](assets/jinbo-bosu-background.jpg)
+
 # 🗳️ Political Meme Coin Repo
 
 Welcome to the **Jinbo Bosu Token Repository**, where satire meets blockchain! 
