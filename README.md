@@ -27,9 +27,8 @@ Whether you're here to trade, laugh, or just enjoy the absurdity, you've come to
 ### 🔧 Installation
 Clone the repo and install dependencies.
 ```sh
-$ git clone https://github.com/yourrepo/jinbo-bosu-token.git
-$ cd political-meme-coins
-$ npm install
+$ git clone https://github.com/Jinbo-Bosu/Jinbo-Bosu-Token.git
+$ cd Jinbo-Bosu
 ```
 
 
