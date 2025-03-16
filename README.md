@@ -1,5 +1,3 @@
-![Jinbo-Bosu](assets/jinbo-bosu-background.jpg)
-
 # 🗳️ Political Meme Coin Repo
 
 Welcome to the **Jinbo Bosu Token Repository**, where satire meets blockchain! 
@@ -7,6 +5,8 @@ This repository contains two distinct ERC-20-based political meme coins that cel
 Whether you're here to trade, laugh, or just enjoy the absurdity, you've come to the right place. 🚀
 
 ### 🌐 **Official Website:** [jinbo-bosu.com](https://www.jinbo-bosu.com/)
+
+![Jinbo-Bosu](assets/jinbo-bosu-background.jpg)
 
 ---
 
