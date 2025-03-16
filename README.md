@@ -1,7 +1,7 @@
 # 🗳️ Political Meme Coin Repo
 
-Welcome to the **Political Meme Coin Repository**, where satire meets blockchain! This repository contains two distinct ERC-20-based political meme coins that celebrate (or mock?) the wild world of politics. Whether you're here to trade, laugh, or just enjoy the absurdity, you've come to the right place. 🚀
-🌐 Official Website: jinbo-bosu.com
+## Welcome to the **Political Meme Coin Repository**, where satire meets blockchain! This repository contains two distinct ERC-20-based political meme coins that celebrate (or mock?) the wild world of politics. Whether you're here to trade, laugh, or just enjoy the absurdity, you've come to the right place. 🚀
+## 🌐 Official Website: jinbo-bosu.com
 ---
 
 ## 🏛️ About the Coins
