@@ -28,7 +28,7 @@ Whether you're here to trade, laugh, or just enjoy the absurdity, you've come to
 Clone the repo and install dependencies.
 ```sh
 $ git clone https://github.com/Jinbo-Bosu/Jinbo-Bosu-Token.git
-$ cd Jinbo-Bosu
+$ cd Jinbo-Bosu-Token
 ```
 
 
